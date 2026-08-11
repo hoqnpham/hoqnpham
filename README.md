@@ -101,7 +101,7 @@
 🔗 [Live Demo](https://trungthu.inntechclub.com) · 🔒 Private Repository — available for technical review upon request
 
 **🩸 DIA+ (diaplus.vn) — Health Tracking PWA for Diabetic Patients**
-*Fullstack Engineer (Team of 4-5 | 199/220 commits)*
+*Fullstack Engineer (Team of 4-5)*
 - **Problem Solved:** Blood sugar tracking, prescription management, and appointment scheduling with clinical-standard medical alerts.
 - **Tech Solutions:**
   - *Fullstack Architecture:* React 19, Vite (Frontend) - Express, Knex, PostgreSQL/SQLite/Supabase (Backend).
