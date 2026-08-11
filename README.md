@@ -109,7 +109,7 @@
   - *Security & Payment:* OTP Authentication (eSMS/SpeedSMS), JWT Auth, Free/Pro tier roles with QR payment integration.
   - *Operations:* Dockerized, deployed on Render/Vercel/AWS/Cloudflare/Fly.io, security auditing.
 
-🔗 [Live Product](https://diaplus.vn) · [Repository](https://github.com/hoqnpham/diaplus-backend)
+🔗 [Live Product](https://diaplus.vn) · [Repository](https://github.com/hoqnpham/IPUNI-NEW-)
 
 **♻️ RecycleBike — Green Mobility / Recycling Logistics Platform**
 *Developer / Product Team Member — `Prototype`*
