@@ -123,7 +123,7 @@
 - **Problem Solved:** Nutrition tracking with AI food recognition, built as final coursework and shipped to both web and Android.
 - **Tech Solutions:** React, TypeScript, Vite, Tailwind (Frontend). Google Gemini Vision for food-photo analysis + a Gemini chatbot for nutrition advice. Capacitor packages the same codebase into a signed Android APK; Facebook Login on both platforms. Two GitHub Actions workflows auto-deploy to GitHub Pages and build/sign the APK.
 
-🔒 Private Repository — available for technical review upon request
+🔗 [Repository](https://github.com/hoqnpham/CALO-CALULATOR)
 
 ---
 
