@@ -106,8 +106,6 @@
 - **Tech Solutions:**
   - *Fullstack Architecture:* React 19, Vite (Frontend) - Express, Knex, PostgreSQL/SQLite/Supabase (Backend).
   - *AI Automation:* Automated prescription scanning & digitization via camera (Gemini API, Anthropic SDK, Tesseract.js).
-  - *Security & Payment:* OTP Authentication (eSMS/SpeedSMS), JWT Auth, Free/Pro tier roles with QR payment integration.
-  - *Operations:* Dockerized, deployed on Render/Vercel/AWS/Cloudflare/Fly.io, security auditing.
 
 🔗 [Live Product](https://diaplus.vn) · [Repository](https://github.com/hoqnpham/IPUNI-NEW-)
 
